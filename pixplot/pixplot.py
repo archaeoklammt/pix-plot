@@ -120,7 +120,7 @@ config = {
   'max_images': None,
   'use_cache': True,
   'encoding': 'utf8',
-  'min_cluster_size': 30,
+  'min_cluster_size': 50,
   'max_clusters': 10,
   'atlas_size': 2048,
   'cell_size': 32,
