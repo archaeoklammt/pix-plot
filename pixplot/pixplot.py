@@ -126,7 +126,7 @@ config = {
   'cell_size': 32,
   'lod_cell_height': 128,
   'n_neighbors': [15],
-  'min_dist': [0.01],
+  'min_dist': [0.1],
   'n_components': 2,
   'metric': 'correlation',
   'pointgrid_fill': 0.05,
